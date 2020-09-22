@@ -4,7 +4,7 @@ title: Rizki Nauli Siregar
 
 # Username (this should match the folder name)
 authors:
-- RNS
+- admin
 
 # Is this the primary user of the site?
 superuser: true
