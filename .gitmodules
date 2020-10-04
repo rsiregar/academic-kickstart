@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/rsiregar/rsiregar.github.io.git
 	branch = master
+[submodule "rsiregar.github.io"]
+	path = rsiregar.github.io
+	url = https://github.com/rsiregar/rsiregar.github.io.git
+	branch = master
