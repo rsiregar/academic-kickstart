@@ -66,3 +66,5 @@ user_groups: []
 I am a PhD Candidate in economics at UC Davis. My research interests are international trade, spatial economics and labor economics.
 
 I will be on the job market during the 2020-21 academic year.
+
+{{% staticref "file/cv.pdf" %}}Download my CV{{% /staticref %}}
