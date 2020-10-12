@@ -14,7 +14,7 @@ header:
   
 ---
 
-
+---
 title: "World Price shocks, Trade Policy Shocks, and Internal Migration: Evidence from Indonesia"
 authors:
 - admin
@@ -76,7 +76,8 @@ projects:[]
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-
+---
+---
 
 title: "Understanding the Global Trade and Public Health Regime Complex: A Case Study on Breastfeeding and Commercial Breastmilk Substitutes"
 authors:
@@ -146,3 +147,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
+---
