@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Webinars
 
 # View.
 #   1 = List
