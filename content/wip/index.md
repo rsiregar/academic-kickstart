@@ -1,5 +1,5 @@
 ---
-title: Works in Progress
+title: Works in Progress (selected)
 
 # View.
 #   1 = List
@@ -12,13 +12,3 @@ header:
   caption: ""
   image: ""
 ---
-Trade, FDI, and Smoking Prevalence
-author:
--admin
-
-Virtual Migration: Online Labor Markets and Spatial Labor Misallocation
-author:
-- Samuel Bazzi
-- Bo Cowgill
-- Zo ̈e Cullen
-- admin
