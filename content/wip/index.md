@@ -13,12 +13,12 @@ header:
   image: ""
 ---
 Trade, FDI, and Smoking Prevalence
-author:
--admin
+  author:
+  -admin
 
 Virtual Migration: Online Labor Markets and Spatial Labor Misallocation
-author:
-- Samuel Bazzi
-- Bo Cowgill
-- Zo ̈e Cullen
-- admin
+  author:
+  - Samuel Bazzi
+  - Bo Cowgill
+  - Zo ̈e Cullen
+  - admin
