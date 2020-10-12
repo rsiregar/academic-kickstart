@@ -18,7 +18,7 @@ organizations:
   url: "rizkisiregar.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in economics at UC Davis. My research interests are international trade, trade policy and labor economics.
+bio: I am a PhD Candidate in economics at UC Davis. My research interests are international trade, spatial economics and labor economics.
 
 
 education:
@@ -54,7 +54,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,4 +63,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 ---
+I am a PhD Candidate in economics at UC Davis. My research interests are international trade, spatial economics and labor economics.
 
+I will be on the job market during the 2020-21 academic year.
