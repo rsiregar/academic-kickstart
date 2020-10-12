@@ -67,4 +67,4 @@ I am a PhD Candidate in economics at UC Davis. My research interests are interna
 
 I will be on the job market during the 2020-21 academic year.
 
-{{% staticref "file/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/Rizki Siregar - CV.pdf" %}}Curriculum Vitae{{% /staticref %}}
