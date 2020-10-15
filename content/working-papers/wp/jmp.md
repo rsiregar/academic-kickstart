@@ -1,4 +1,4 @@
----
++++
 title: "World Price shocks, Trade Policy Shocks, and Internal Migration: Evidence from Indonesia"
 authors:
 - admin
@@ -125,7 +125,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
++++
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
