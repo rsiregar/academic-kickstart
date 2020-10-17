@@ -65,6 +65,6 @@ user_groups: []
 ---
 I am a PhD Candidate in economics at UC Davis. My research interests are international trade, spatial economics and labor economics.
 
-I will be on the job market during the 2020-21 academic year.
+I am on the job market during the 2020-21 academic year. I will be available for interviews at the ASSA 2021 Virtual Annual Meeting and the EEA 2020 Virtual Meeting. 
 
 {{% staticref "files/Rizki Siregar - CV.pdf" %}}Curriculum Vitae{{% /staticref %}}
