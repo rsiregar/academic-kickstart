@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "rsiregar@ucdavis.edu"
-phone = ""
+phone = "+1 (530) 761 - 8727"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -104,14 +104,14 @@ directions = []
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "TBC"
+office_hours = "Wednesday, 9 - 11 am"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = []
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = []
+contact_links = "#contact"
 
 ############################
 ## Social
@@ -164,7 +164,7 @@ highlight_superuser = false
 link_authors = true
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
-abstract_length = 135
+abstract_length = 250
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
