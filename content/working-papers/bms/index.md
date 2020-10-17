@@ -24,8 +24,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: []
-summary: []
+abstract: TBC
+summary: TBC
 - Source Themes
 featured: false
 
