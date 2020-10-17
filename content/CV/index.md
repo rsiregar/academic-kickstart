@@ -13,4 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-{{% staticref "files/Rizki Siregar - CV.pdf" %}}
