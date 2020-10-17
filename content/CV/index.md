@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-{{% staticref "files/Rizki Siregar - CV.pdf" %}}({{< ref "cv/index.md" >}})
+{{% staticref "files/Rizki Siregar - CV.pdf" %}}
