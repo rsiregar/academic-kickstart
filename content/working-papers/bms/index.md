@@ -24,8 +24,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
-summary: ""
+abstract: []
+summary: []
 - Source Themes
 featured: false
 
